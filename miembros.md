@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Dr Doom
+* Red Skull
