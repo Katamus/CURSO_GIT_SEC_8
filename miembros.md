@@ -19,3 +19,5 @@
 * Antman
 * Dr Doom
 * Red Skull
+* Dr. He
+* Nick Fury
